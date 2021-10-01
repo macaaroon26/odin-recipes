@@ -1,0 +1,1 @@
+This is my 1st project in odin project. It's about making recipes. :)
